@@ -1,0 +1,15 @@
+D:\.NET\MaskeTakip\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+D:\.NET\MaskeTakip\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\MaskeTakip\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+D:\.NET\MaskeTakip\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+D:\.NET\MaskeTakip\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+D:\.NET\MaskeTakip\Business\bin\Debug\net8.0\Business.deps.json
+D:\.NET\MaskeTakip\Business\bin\Debug\net8.0\Business.dll
+D:\.NET\MaskeTakip\Business\bin\Debug\net8.0\Business.pdb
+D:\.NET\MaskeTakip\Business\bin\Debug\net8.0\Entities.dll
+D:\.NET\MaskeTakip\Business\bin\Debug\net8.0\Entities.pdb
+D:\.NET\MaskeTakip\Business\obj\Debug\net8.0\Business.csproj.Up2Date
+D:\.NET\MaskeTakip\Business\obj\Debug\net8.0\Business.dll
+D:\.NET\MaskeTakip\Business\obj\Debug\net8.0\refint\Business.dll
+D:\.NET\MaskeTakip\Business\obj\Debug\net8.0\Business.pdb
+D:\.NET\MaskeTakip\Business\obj\Debug\net8.0\ref\Business.dll

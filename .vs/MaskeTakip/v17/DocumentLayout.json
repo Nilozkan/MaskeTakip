@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET\\MaskeTakip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2089137A-5CC4-4B3B-A5C3-21EDE0BF5095}|WorkSpace\\WorkSpace.csproj|d:\\.net\\masketakip\\workspace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2089137A-5CC4-4B3B-A5C3-21EDE0BF5095}|WorkSpace\\WorkSpace.csproj|solutionrelative:workspace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAD9EF4-67BC-4390-BA29-75A6142F823A}|Entities\\Entities.csproj|d:\\.net\\masketakip\\entities\\concreate\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAD9EF4-67BC-4390-BA29-75A6142F823A}|Entities\\Entities.csproj|solutionrelative:entities\\concreate\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77944AD3-9119-40D6-AEA3-BF601E60FBE4}|Business\\Business.csproj|d:\\.net\\masketakip\\business\\concreate\\pttmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77944AD3-9119-40D6-AEA3-BF601E60FBE4}|Business\\Business.csproj|solutionrelative:business\\concreate\\pttmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77944AD3-9119-40D6-AEA3-BF601E60FBE4}|Business\\Business.csproj|d:\\.net\\masketakip\\business\\concreate\\personmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77944AD3-9119-40D6-AEA3-BF601E60FBE4}|Business\\Business.csproj|solutionrelative:business\\concreate\\personmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77944AD3-9119-40D6-AEA3-BF601E60FBE4}|Business\\Business.csproj|d:\\.net\\masketakip\\business\\concreate\\foreignermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77944AD3-9119-40D6-AEA3-BF601E60FBE4}|Business\\Business.csproj|solutionrelative:business\\concreate\\foreignermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\.NET\\MaskeTakip\\Entities\\Concreate\\Person.cs",
+              "RelativeDocumentMoniker": "Entities\\Concreate\\Person.cs",
+              "ToolTip": "D:\\.NET\\MaskeTakip\\Entities\\Concreate\\Person.cs",
+              "RelativeToolTip": "Entities\\Concreate\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T15:37:15.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PttManager.cs",
+              "DocumentMoniker": "D:\\.NET\\MaskeTakip\\Business\\Concreate\\PttManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concreate\\PttManager.cs",
+              "ToolTip": "D:\\.NET\\MaskeTakip\\Business\\Concreate\\PttManager.cs",
+              "RelativeToolTip": "Business\\Concreate\\PttManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T15:34:42.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonManager.cs",
+              "DocumentMoniker": "D:\\.NET\\MaskeTakip\\Business\\Concreate\\PersonManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concreate\\PersonManager.cs",
+              "ToolTip": "D:\\.NET\\MaskeTakip\\Business\\Concreate\\PersonManager.cs",
+              "RelativeToolTip": "Business\\Concreate\\PersonManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T15:34:38.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET\\MaskeTakip\\WorkSpace\\Program.cs",
+              "RelativeDocumentMoniker": "WorkSpace\\Program.cs",
+              "ToolTip": "D:\\.NET\\MaskeTakip\\WorkSpace\\Program.cs",
+              "RelativeToolTip": "WorkSpace\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T15:31:38.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ForeignerManager.cs",
+              "DocumentMoniker": "D:\\.NET\\MaskeTakip\\Business\\Concreate\\ForeignerManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concreate\\ForeignerManager.cs",
+              "ToolTip": "D:\\.NET\\MaskeTakip\\Business\\Concreate\\ForeignerManager.cs",
+              "RelativeToolTip": "Business\\Concreate\\ForeignerManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T15:34:36.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
